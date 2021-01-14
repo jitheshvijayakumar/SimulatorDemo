@@ -1,2 +1,4 @@
 # AconexDemoSimulator
- This is for Aconex Demo Simulator
+ How to run : 
+ mvn install
+ mvn package exec:java
